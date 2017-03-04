@@ -1,0 +1,25 @@
+{
+  "name": "newOfficeSim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "angular": "^1.6.2",
+    "angular-ui-router": "^0.4.2",
+    "browser-sync": "^2.11.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-ng-html2js": "^0.2.0",
+    "gulp-sass": "^2.0.3",
+    "gulp-uglify": "^2.0.1",
+    "node-sass": "^3.2.0"
+  }
+}
